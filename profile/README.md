@@ -4,7 +4,7 @@
 
 # Directions
 ## Start here: RADexplorer
-RADexplorer(RADx) is the user-interface app that integrates the rest of RADSuite for easy access. Follow the instructions on the README in the RADexplorer repository to easily download the app and begin exploring!
+RADexplorer (RADx) is the user-interface app that integrates the rest of RADSuite for easy access. Follow the instructions on the README in the RADexplorer repository to easily download the app and begin exploring!
 
 ## Other repositories
 RADlib contains the Nextflow pipeline for generating an updated version of RADlib.
